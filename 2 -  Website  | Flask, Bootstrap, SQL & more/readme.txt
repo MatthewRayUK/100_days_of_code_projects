@@ -1,6 +1,6 @@
 🎄 Christmas Movie Watchlist 🎥
 
-Welcome to my **Christmas Movie Watchlist** project!  
+Welcome to my **Christmas Movie Watchlist project!
 This Flask-based web application allows users to create a personalised watchlist of Christmas movies to enjoy throughout December.
 
 🌟 Features
