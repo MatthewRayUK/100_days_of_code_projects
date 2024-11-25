@@ -3,7 +3,7 @@
 Welcome to my **Christmas Movie Watchlist** project!  
 This Flask-based web application allows users to create a personalised watchlist of Christmas movies to enjoy throughout December.
 
-#🌟 Features
+🌟 Features
 
 - **Browse**: Explore IMDb's top 100 Christmas movies.  
 - **Search**: Find any movie to add to your list.  
