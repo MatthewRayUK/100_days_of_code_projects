@@ -1,7 +1,7 @@
 import json
 with open ('morse_dict.json', 'r') as file:
     morse_dict = json.load(file)
-
+print("Welcome to the Morse Code text converter.")
 user_string = input("Type in your sentence: ").lower()
 
 morse_list = [
